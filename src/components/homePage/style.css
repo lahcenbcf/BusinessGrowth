@@ -1,0 +1,10 @@
+.menu{
+    background: rgba(0, 0, 0, 0.1);
+    bottom: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+    backdrop-filter: blur(15px);
+}
+.img{
+    color: #137E98;
+}
