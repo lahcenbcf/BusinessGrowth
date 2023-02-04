@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/BusinessGrowth/static/css/main.a6de7808.css",
+    "main.js": "/BusinessGrowth/static/js/main.0d3d6fea.js",
+    "static/media/32903009_070153065255.jpg": "/BusinessGrowth/static/media/32903009_070153065255.6e87ee2c49c8c1cc4075.jpg",
+    "static/media/IMG_20230107_031054-removebg.png": "/BusinessGrowth/static/media/IMG_20230107_031054-removebg.4a7fde221fe6426536b2.png",
+    "static/media/1673057001254.png": "/BusinessGrowth/static/media/1673057001254.8d44966eea95c83b5c5f.png",
+    "static/media/undraw_personal_email_re_4lx7 (3).svg": "/BusinessGrowth/static/media/undraw_personal_email_re_4lx7 (3).9ec5a6a9d25c642f51ba20914f038677.svg",
+    "static/media/undraw_finance_re_gnv2.svg": "/BusinessGrowth/static/media/undraw_finance_re_gnv2.014877e871a56380160037e74ab50b44.svg",
+    "static/media/target-audience-svgrepo-com.svg": "/BusinessGrowth/static/media/target-audience-svgrepo-com.8c95a8327f1259b2d129e4ba0db8286a.svg",
+    "static/media/investment-growth-svgrepo-com.svg": "/BusinessGrowth/static/media/investment-growth-svgrepo-com.83803a88274beace5d4bc5e04b1628e7.svg",
+    "static/media/crystal-ball-svgrepo-com.svg": "/BusinessGrowth/static/media/crystal-ball-svgrepo-com.0214855c843c35d50f3d79a34a82f11c.svg",
+    "static/media/profile-user-svgrepo-com.svg": "/BusinessGrowth/static/media/profile-user-svgrepo-com.b4383d29db83a6705a98f58e912c9c5b.svg",
+    "static/media/analytics-statistics-svgrepo-com.svg": "/BusinessGrowth/static/media/analytics-statistics-svgrepo-com.78be9ba6e4674d708f079f7c66294da3.svg",
+    "static/media/linkedin-svgrepo-com.svg": "/BusinessGrowth/static/media/linkedin-svgrepo-com.4a815c5f6e6620ae7f178ebeabc5bd2c.svg",
+    "static/media/solution-svgrepo-com (1).svg": "/BusinessGrowth/static/media/solution-svgrepo-com (1).8c04ed8b17cef58ccb26ff474b0edb69.svg",
+    "static/media/about-description-help-svgrepo-com (1).svg": "/BusinessGrowth/static/media/about-description-help-svgrepo-com (1).b38d8f0d3b5321707fa42ee079a4e05e.svg",
+    "index.html": "/BusinessGrowth/index.html",
+    "static/media/email-svgrepo-com.svg": "/BusinessGrowth/static/media/email-svgrepo-com.8a2b57544c77e9dffaa9c4157c4e5094.svg",
+    "main.a6de7808.css.map": "/BusinessGrowth/static/css/main.a6de7808.css.map",
+    "main.0d3d6fea.js.map": "/BusinessGrowth/static/js/main.0d3d6fea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6de7808.css",
+    "static/js/main.0d3d6fea.js"
+  ]
+}
